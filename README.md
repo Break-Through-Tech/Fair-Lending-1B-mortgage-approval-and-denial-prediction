@@ -11,7 +11,7 @@
 | Name             | GitHub Handle | Contribution                                                             |
 |------------------|---------------|--------------------------------------------------------------------------|
 |  David Balogun   | @BALOGUN-DAVID | Challenge Advisor            |
-|    |     |   |
+|  Michelle Kelly  | @MICHELLE-KELLY    |  Break Through Tech Fellow |
 |      |   |                  |
 |       |        |   |
 |        |     |           |
