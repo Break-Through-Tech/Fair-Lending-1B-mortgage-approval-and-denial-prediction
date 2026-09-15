@@ -21,15 +21,13 @@ class MissingValueHandler:
   def analyze(self) -> None:
     pass
 
-
-
 ############## Entry Point #############
 if __name__ == "__main__":
   df = pd.read_csv(mortgage_filename, header=0)
 
   # Reorganize Target Column `action_taken`
   df = df[~df['action_taken'].isin([4,5])]
-  df['is_approved'] = df['action_taken'].isin([1, 3, 6]).astype(int)
+  df['is_approved'] = df['action_taken'].isin([1, 2, 6]).astype(int)
   df.drop(columns=['action_taken', 'action_taken_name'], inplace=True)
 
   df.to_csv('data/updated_ny_hmda_2015.csv', index=False)
