@@ -1,6 +1,4 @@
-# Mortgage Approval & Denial Prediction
-
-> 💡 **Note for the team:** This is just a template. Update the above title with your AI Studio Challenge Project name. Remove all guidance notes and example text in this template and populate this README with your own content. You can work on this README throughout AI Studio, and get feedback from your AI Studio Coach and Challenge Advisor before finalizing it.  
+# Mortgage Approval & Denial Prediction - Fair Lending 1B
 
 ---
 
@@ -11,6 +9,7 @@
 | Name             | GitHub Handle | Contribution                                                             |
 |------------------|---------------|--------------------------------------------------------------------------|
 |  David Balogun   | @BALOGUN-DAVID | Challenge Advisor            |
+|  Hrushikesh Shetty | @HRUSHIKESH070902 | Coach
 |  Michelle Kelly  | @MICHELLE-KELLY    |  Break Through Tech Fellow |
 |  Akhar Min Hein  | @AHKARMIN  | Break Through Tech Fellow                 |
 |  Rudra Patel     | @RUDRA1729   | Break Through Tech Fellow  |
