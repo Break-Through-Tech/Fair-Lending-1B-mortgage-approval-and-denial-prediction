@@ -1,5 +1,4 @@
 # Mortgage Approval & Denial Prediction - Fair Lending 1B
-
 ---
 
 ### 👥 **Team Members**
