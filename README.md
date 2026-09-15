@@ -12,9 +12,9 @@
 |------------------|---------------|--------------------------------------------------------------------------|
 |  David Balogun   | @BALOGUN-DAVID | Challenge Advisor            |
 |  Michelle Kelly  | @MICHELLE-KELLY    |  Break Through Tech Fellow |
-|      |   |                  |
-|       |        |   |
-|        |     |           |
+|  Akhar Min Hein  | @AHKARMIN  | Break Through Tech Fellow                 |
+|  Rudra Patel     | @RUDRA1729   | Break Through Tech Fellow  |
+|  Thang Nguyen    | @Quixowo    |  Break Through Tech Fellow         |
 
 ---
 
