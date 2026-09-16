@@ -1,1 +1,4 @@
-
+kagglehub
+pandas
+numpy
+scikit-learn
