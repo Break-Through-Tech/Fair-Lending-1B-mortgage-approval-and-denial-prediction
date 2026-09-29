@@ -10,7 +10,6 @@ SCRIPTS = [
   "scripts/duplicate_handler.py",
   "scripts/outlier_handler.py",
   "scripts/constant_column_handler.py",
-  "scripts/data_cleaner.py",
   "scripts/feature_engineering.py",
 ]
 
