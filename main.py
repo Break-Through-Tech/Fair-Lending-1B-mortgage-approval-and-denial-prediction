@@ -11,6 +11,7 @@ SCRIPTS = [
   "scripts/outlier_handler.py",
   "scripts/constant_column_handler.py",
   "scripts/feature_engineering.py",
+  "scripts/logistic_regression_trainer.py"
 ]
 
 def main() -> None:
