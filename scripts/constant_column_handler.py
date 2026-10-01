@@ -1,5 +1,7 @@
 """
 Drop columns that contain only a single repeated value (no variation).
+
+This writes a standalone file that later steps do not read; feature_engineering.py has its own CONSTANT_COLS list.
 """
 
 ############## Imports #################
@@ -9,7 +11,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 ############## Data Files #############
-INPUT_PATH = os.path.join(os.getcwd(), "data", "ny_hmda_2015_dedup_outliers.csv")
+INPUT_PATH = os.path.join(os.getcwd(), "data", "ny_hmda_2015_dedup.csv")
 OUTPUT_PATH = os.path.join(os.getcwd(), "data", "ny_hmda_2015_no_constant.csv")
 
 ############## Handlers ###############
