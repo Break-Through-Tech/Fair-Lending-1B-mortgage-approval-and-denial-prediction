@@ -1,5 +1,8 @@
 """
 Winsorize continuous loan features at configured percentile limits.
+
+Not part of main.py anymore: the pipeline now winsorizes inside scripts/feature_engineering.py, with limits
+learned from the training split only. This script is kept as a standalone way to inspect capping on the whole file.
 """
 
 ############## Imports #################
