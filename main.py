@@ -10,7 +10,8 @@ SCRIPTS = [
   "scripts/duplicate_handler.py",
   "scripts/constant_column_handler.py",
   "scripts/feature_engineering.py",
-  "scripts/logistic_regression_trainer.py"
+  "scripts/logistic_regression_trainer.py",
+  "scripts/decision_tree_trainer.py",
 ]
 
 def main() -> None:

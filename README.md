@@ -37,6 +37,7 @@
    - `scripts/constant_column_handler.py`: writes a copy without constant columns (not used by later steps)
    - `scripts/feature_engineering.py`: builds the target, applies the scope filters, creates the train/test features
    - `scripts/logistic_regression_trainer.py`: trains and saves the logistic regression model
+   - `scripts/decision_tree_trainer.py`: trains and saves the decision tree model, then prints its test metrics
 5. Notebooks in `notebooks/` explain each stage: `Data Understanding`, `Duplicates and Outliers` (read-only analysis), `Feature_Engineering` (a step-by-step version of the script, which checks itself against the script's saved output) and `Model_Analysis`.
 
 ---
