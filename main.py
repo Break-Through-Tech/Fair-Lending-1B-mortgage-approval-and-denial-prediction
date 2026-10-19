@@ -12,6 +12,7 @@ SCRIPTS = [
   "scripts/feature_engineering.py",
   "scripts/logistic_regression_trainer.py",
   "scripts/decision_tree_trainer.py",
+  "scripts/xgboost_trainer.py",
 ]
 
 def main() -> None:
